@@ -1,0 +1,7 @@
+ER Baseline (uncomplete): https://colab.research.google.com/drive/1rh8j8qnykXdxkyx7VOoFLjnD3fFOAblr#scrollTo=AKBOfz8EeDO1
+
+ER with General Purpose Finetuned Model - Part 1: https://colab.research.google.com/drive/1skTRjlExed5w4SEqGftxsJ7jDzflH9-Q
+
+ER with General Purpose Finetuned Model - Part 2: https://colab.research.google.com/drive/10AjYh9Y5u_FaMM0D4ZUTfCFSS-oTp7cG
+
+ER with General Purpose Finetuned Model - Part 3 (uncomplete): https://colab.research.google.com/drive/1A64GQaO708lcx0R6J5uzMxA9y-DPhPZn
