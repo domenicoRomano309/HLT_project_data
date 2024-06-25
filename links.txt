@@ -1,5 +1,5 @@
 These are all our notebooks present on Colab. We suggest to read/try them in the following order: from the first to the last.
-About the imports from Github present in the files: we did it for simplicity, but all the files imported are also present inside the data folder that we attached in the email.
+About all the imports from Github present in the code: we did it for simplicity, but all the files imported are also present inside the data folder that we attached in the email.
 
 
 Datasets Creation: https://colab.research.google.com/drive/1tW_OC7053Jz81s3CVTA8tDCRs87rt8I7
